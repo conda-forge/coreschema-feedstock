@@ -1,7 +1,7 @@
 About coreschema-feedstock
 ==========================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/coreschema-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tmpitab6rko-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/core-api/python-coreschema
 
@@ -15,8 +15,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=10394&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/coreschema-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/tmpitab6rko-feedstock?branchName=main">
       </a>
     </td>
   </tr>
